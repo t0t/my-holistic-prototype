@@ -3,7 +3,7 @@
 
 <main>
 	<h1>Hola, éste es mi prototipo holistico</h1>
-	<p>yeah!!!!</p>
+	<p>Y lo acabo de subir a internet gratis!</p>
 </main>
 
 <style>
